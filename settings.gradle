@@ -7,6 +7,7 @@ pluginManagement {
     }
 }
 dependencyResolutionManagement {
+    compile 'com.github.ctiao:DanmakuFlameMaster:0.9.25'
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         mavenCentral()
