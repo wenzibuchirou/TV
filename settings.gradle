@@ -22,7 +22,6 @@ dependencyResolutionManagement {
             url "http://4thline.org/m2"
             allowInsecureProtocol = true
         }
-         compile 'com.github.ctiao:DanmakuFlameMaster:0.9.25'
     }
 }
 include ':app'
